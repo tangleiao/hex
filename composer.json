@@ -3,7 +3,7 @@
     "description": "laravel modules",
     "type": "library",
     "require": {
-        "nwidart/modules": "2.*"
+        "nwidart/modules": "2.6.0"
     },
     "license": "MIT",
 
