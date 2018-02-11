@@ -6,10 +6,18 @@
         "nwidart/modules": "2.7"
     },
     "license": "MIT",
+    "minimum-stability": "dev",
+
     "authors": [
         {
             "name": "tangleitao",
             "email": "tangleitao@xin.com"
         }
-    ]
+    ],
+    
+    "autoload": {
+        "psr-4": {
+            "Hextang\\Modules\\": "src",
+        }
+    }
 }
