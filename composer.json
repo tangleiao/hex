@@ -9,6 +9,7 @@
         "nwidart/modules": "2.7"
     },
     "license": "MIT",
+    "minimum-stability": "1.0",
     "authors": [
         {
             "name": "tangleitao",

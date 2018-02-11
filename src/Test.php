@@ -1,5 +1,5 @@
 <?php
-namespace Hextang;
+namespace Hextang/Modules;
 class Test{
 	
 	public function show(){
