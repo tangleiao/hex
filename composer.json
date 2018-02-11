@@ -17,7 +17,7 @@
     
     "autoload": {
         "psr-4": {
-            "Hextang\\Modules\\": "src",
+            "Hextang\\Modules\\": "src"
         }
     }
 }
