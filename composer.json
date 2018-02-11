@@ -1,0 +1,29 @@
+{
+    "name": "uxin/laravel-modules",
+    "description": "The package is for laravel modules",
+    "keywords": ["uxin", "modules"],
+    "license": "Uxin",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "nwidart/modules": "2.*"
+    },
+    "authors": [
+        {
+            "name": "tangleitao",
+            "email": "tangleitao@xin.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Uxin\\Modules\\": "src"
+        },
+      "files": [
+            "src/helpers.php"
+      ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    }
+}
