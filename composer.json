@@ -1,7 +1,7 @@
 {
     "name": "hextang/modules",
     "description": "laravel modules",
-    "type": "project",
+    "type": "library",
     "require": {
         "nwidart/modules": "2.7"
     },
@@ -20,10 +20,6 @@
         }
     },
 
-    "branch-alias": {
-      "dev-master": "1.0-dev"
-    },
-
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-1.0",
     "prefer-stable": true
 }
