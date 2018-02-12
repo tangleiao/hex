@@ -6,8 +6,7 @@
     "type": "library",
     "require": {
         "php": ">=7.0",
-        "laravel/framework": "5.5.*",
-        "nwidart/modules": "^2.6"
+        "nwidart/modules": "^2.6.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8.35|^5.4.3"
