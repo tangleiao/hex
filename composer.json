@@ -5,7 +5,8 @@
     "license": "MIT",
     "type": "library",
     "require": {
-        "php": ">=7.0" 
+        "php": ">=7.0",
+        "nwidart/modules": "^2.0"
     },
     "require-dev": {
     },
