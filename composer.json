@@ -1,7 +1,7 @@
 {
     "name": "uxin/modules-component",
     "description": "The package is component for laravel modules",
-    "keywords": ["uxin", "modules", "component"],
+    "keywords": ["uxin", "modules"],
     "license": "MIT",
     "type": "library",
     "require": {
