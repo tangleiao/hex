@@ -1,11 +1,12 @@
 {
-    "name": "uxin/laravel-modules",
-    "description": "The package is for laravel modules",
-    "keywords": ["uxin", "modules"],
+    "name": "uxin/modules-component",
+    "description": "The package is component for laravel modules",
+    "keywords": ["uxin", "modules", "component"],
     "license": "MIT",
     "type": "library",
     "require": {
         "php": ">=7.0"
+        "laravel/framework": "5.5.*"
     },
     "require-dev": {
         "nwidart/modules": "^2.0.0"
