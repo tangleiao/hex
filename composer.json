@@ -6,7 +6,6 @@
     "type": "library",
     "require": {
         "php": ">=7.0",
-        "nwidart/modules": "2.*.*"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8.35|^5.4.3"
@@ -28,5 +27,6 @@
     "autoload-dev": {
         "psr-4": {
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
