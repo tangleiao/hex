@@ -5,10 +5,10 @@
     "license": "MIT",
     "type": "library",
     "require": {
-        "php": ">=7.0",
-        "nwidart/modules": "^2.7.0"
+        "php": ">=7.0"
     },
     "require-dev": {
+        "nwidart/modules": "^2.7.0"
     },
     "authors": [
         {
