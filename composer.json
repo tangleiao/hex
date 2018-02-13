@@ -1,0 +1,32 @@
+{
+    "name": "uxin/modules-component",
+    "description": "The package is component for laravel modules",
+    "keywords": ["uxin", "modules"],
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "nwidart/modules": "^2.7.0"
+    },
+    "authors": [
+        {
+            "name": "hextang",
+            "email": "hextang@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+                "Uxin\\Modules\\": "src"
+            },
+      "files": [
+                "src/helpers.php"
+          ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    },
+    "minimum-stability": "dev"
+}
